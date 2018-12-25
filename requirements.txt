@@ -1,4 +1,4 @@
-Django==2.0.5
+Django==2.0.8
 #django-blog-zinnia==0.19
 git+https://github.com/Wtower/django-blog-zinnia.git
 django-ckeditor==5.4.0
